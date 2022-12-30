@@ -4,15 +4,14 @@ The main advantage of note-taking applications is that notes can be shared betwe
 [![MasterHead](LoginPage.jpg)]()
  <br><br>
  <br><br>
-[![MasterHead](Create account.jpg)]()
+[![MasterHead](Create_account.jpg)]()
+ <br><br>
+ <br><br>
+[![MasterHead](FrountPage.jpg)]()
+ <br><br>
+ <br><br>
+[![MasterHead](Profile.jpg)]()
  <br><br>
  <br><br>
 [![MasterHead](LoginPage.jpg)]()
- <br><br>
- <br><br>
-[![MasterHead](LoginPage.jpg)]()
- <br><br>
- <br><br>
-[![MasterHead](LoginPage.jpg)]()
- <br><br>
-[![MasterHead](mine.jpg)]()
+
