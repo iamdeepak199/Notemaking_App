@@ -10,6 +10,6 @@ The main advantage of note-taking applications is that notes can be shared betwe
 [![MasterHead](FrountPage.jpg)]()
  <br><br>
 [![MasterHead](Profile.jpg)]()
- <br><br>
+ <br>
 
 
