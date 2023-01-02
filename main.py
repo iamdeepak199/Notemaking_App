@@ -12,7 +12,7 @@ from kivy.app import App
 from helper import username_helper, password_helper
 from login import MenuScreen
 
-Window.size = (350, 600)
+Window.size = (350, 60)
 
 navigation_helper = """
 Screen:
