@@ -28,7 +28,7 @@ class DeepakApp(MDApp):
         screen = Screen()
         image=ImageLeftWidget(source="i.png")
         icon=IconLeftWidget(icon="android", pos_hint={'center_x': 0.5, 'center_y': 0.6}, size_hint_x=None,
-                               width=5000)
+                               width=500)
 
 
         button = MDRectangleFlatButton(text='Login', pos_hint={'center_x': 0.5, 'center_y': 0.3},
